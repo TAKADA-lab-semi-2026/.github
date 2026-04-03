@@ -13,11 +13,11 @@
 同志社女子大学 生活科学部 食物栄養科学科 [臨床病態学研究室](https://daisukegaotian.github.io/labo_settings)のGithub Classroomです。<br>
 主に課題のやりとりを行うために作成しています。
 
-- Publicな資料は[教室紹介用Github](https://github.com/DaisukeGaotian/Labo_public)に公開しています。
+- Publicな資料は[教室紹介用Github](https://github.com/DWC-TKD-lab-semi/Labo_public)に公開しています。
 
 - 各学生向けの教育用資料は、[別HP](https://daisukegaotian.github.io/2026_Labo_semi/education.html)等に公開しています。
 
-- ゼミ課題に関しては、materials/[のディレクトリ以下](https://github.com/DaisukeGaotian/Labo_public/tree/main/materials/2026)や`Labo_20**students_**`(年度別privateリポジトリ)で管理しています。
+- ゼミ課題に関しては、materials/[のディレクトリ以下](https://github.com/DWC-TKD-lab-semi/Labo_public/tree/main/materials/2026)や`Labo_20**students_**`(年度別privateリポジトリ)で管理しています。
 
 -----
 Department of Food Science and Nutrition, Faculty of Human Life and Science, Doshisha Women’s College of Liberal Arts
